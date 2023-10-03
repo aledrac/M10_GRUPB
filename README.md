@@ -1,3 +1,13 @@
+# **Hotel l'Harmonia** 
+
+## **Logo:**
+
+<img src="Imatge_Hotel.png" width="200"/>
+
+## **Ubicación**
+
+Se eligió como ubicación para nuestro hotel una de las zonas más céntricas de Barcelona, Passeig de Grâcia, debido a su gran afluencia de turistas y facilidad para tratos con los diversos comercios que rodean la zona. Nuestro objetivo a la hora de escoger esta zona céntrica, es atraer al mayor número de personas y ofrecerles un servicio alternativo y de calidad, que permitiría cambiar el rumbo del turismo de uno descontrolado a uno más responsable y sensibilizado con el entorno.
+
 ## **Clasificación**
 
 
@@ -9,9 +19,34 @@ Debido a esto, nuestros beneficios, a pesar de ser una **empresa con ánimo de l
 
 La forma jurídica de nuestra empresa es **cooperativa**, dos directivos comparten tanto las responsabilidades como la toma de decisiones de nuestra empresa.
 
-## **Ubicación**
 
-Se eligió como ubicación para nuestro hotel una de las zonas más céntricas de Barcelona, Passeig de Grâcia, debido a su gran afluencia de turistas y facilidad para tratos con los diversos comercios que rodean la zona. Nuestro objetivo a la hora de escoger esta zona céntrica, es atraer al mayor número de personas y ofrecerles un servicio alternativo y de calidad, que permitiría cambiar el rumbo del turismo de uno descontrolado a uno más responsable y sensibilizado con el entorno.
+## **Tipo de cliente:**
+
+El público objetivo el cual nos dirigimos, será gente adulta que busque disfrutar del interés cultural de la ciudad de Barcelona. Con posición económica mediana / alta. Que busquen un interés por la cultura de este territorio de una forma calmada y relajada. En nuestro hotel aceptamos familias por aquellos interesados por la cultura que la puedan transmitir a las próximas generaciones. Desgraciadamente, no disponemos de las instalaciones necesarias para aceptar animales en nuestro hotel.
+
+## **Areas funcionales:**
+
+- Guías
+
+- Directivos
+
+- RRHH
+
+- Contabilidad
+
+- Servicio
+
+- Marketing
+
+- Cocina
+
+- Logistica
+
+- Mantenimiento
+
+- Seguridad
+
+- IT
 
 ## **Número de empleados y su rol**
 
@@ -81,7 +116,7 @@ Manejar asuntos relacionados con los empleados, como nóminas y beneficios.
 El equipo de marketing se encarga de diseñar estrategias de marketing, promociones y publicidad para atraer clientes.
 
 ### Tecnología de la Información (IT) (3):
- Profesionales de TI que se encargan de mantener y actualizar la infraestructura tecnológica del hotel, incluyendo sistemas de reservas y seguridad informática.
+ Profesionales de TI que se encargan de mantener y actualizar la infraestructura tecnológica del hotel, incluyendo sistemas de reservas, gestión de la página web y seguridad informática.
 
  ### Logística (5 personas):
 Este grupo se ocupa de la gestión de suministros, distribución de productos y mantenimiento de inventario.
