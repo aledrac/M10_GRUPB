@@ -109,6 +109,7 @@ Primero de todo para nuestro hotel necessitaremos un sistema para gestionar las 
 - **Sistema de gestion de usuarios:** La base de datos debera saber quien se ha conectado mediante un usuario y una contraseña para saber que información y opciones dar, por ejemplo queremos mostrar los detalles de la reserva solo a nuestros empleados, y el cliente solo debe saber que la habitación esta disponible (**Icono Verde**) o no (**Icono Naranja**, o **Icono Azul** en caso de sucia).
 <br>
 <br>
+
 - **Tipo de habitación:** Queremos que cuando el usuario vaya a reservar su habitación pueda ver de que tipo es: individual, doble, triple, quadruple o suit. 
 Dentro de este apartado deberia verse también como un numero cuanta gente cabe como màximo y cuantas camas y de que tamaño son hay en la habitación.
 <br>
