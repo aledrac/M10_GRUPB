@@ -113,6 +113,7 @@ Primero de todo para nuestro hotel necessitaremos un sistema para gestionar las 
 Dentro de este apartado deberia verse también como un numero cuanta gente cabe como màximo y cuantas camas y de que tamaño son hay en la habitación.
 <br>
 <br>
+
 - **Habitación Libre o Ocupada:** Obiamente queremos saber la disponibilidad de las habitaciónes, para el cliente solo debera salir la disponibilidad dependiendo de la fecha, pero para los usuarios del hotel debera salir la siguiente informacion:
 
     - Nombre de la persona que reserva.
@@ -122,6 +123,7 @@ Dentro de este apartado deberia verse también como un numero cuanta gente cabe 
     - Para cuantas personas es la reserva.
 <br>
 <br>
+
 - **Detección del estado de la habitación:** Por ultimo queremos que el sistema detecte si la habitación esta limpia o sucia a partir del sistema de limpieza que explicaremos a continuación, en caso de estar sucia no permitira que haya reservas en esa habitación hasta X horas despues, es decir el cliente podra hacer la reserva en esa habitación pero solo podra ocupar-la a partir de la hora X en la que se supone estara limpia. 
 <br>
 <br>
@@ -133,6 +135,7 @@ La función principal del sistema de limpieza sera saber que habitaciónes neces
 - **Habitación limpia o sucia:** El sistema debera tener una interfície grafica similar a la de las reservas pero que indique que habitaciónes se encuentran sucias, siendo estas las que recientemente a abandonado un cliente, o que un cliente/superior a pedido que se limpie. El sistema también debera llevar la cuenta de tiempo desde que se limpio la habitación por ultima vez. Por ultimo se debera saber que grado de suciedad tiene la habitación que se vaya a limpiar, por ejemplo: Una habitación que lleva 1 semana sin limpiar y sin ocupar es una limpieza ligera(quitar el polvo), una habitación que acaba de ser liberada seria una limpieza media(limpiar sabanas, baños, reponer lo necessarió), cuando haya algun accidente que requiera unos productos mas fuertes se marcara como limpieza a fondo.
 <br>
 <br>
+
 - **Inventario:** Como necesitaremos productos para limpiar las habitaciónes habra que llevar un inventario para saber cuando debemos reponer el stock, en caso de ser productos que se reutilizan deberemos saber la disponibilidad de ellos. Los productos que deberan haber en este inventario són:
  
     - Bolsas de basura
@@ -152,6 +155,7 @@ La función principal del sistema de limpieza sera saber que habitaciónes neces
     - Funda almohadas
 <br>
 <br>
+
 - **Reportar Objetos Perdidos:** Debido a que el personal de limpieza es el mas propenso a encontrar objetos que el cliente se ha dejado queremos una aplicación para que puedan reportarlo, tienen que poder:
 
     - Escribir el nombre y una brebe descripción del objeto que han encontrado.
