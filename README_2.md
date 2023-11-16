@@ -32,6 +32,11 @@ En la primera reunion con el cliente les he explicado que a entendido el equipo 
 
 <br>
 
+# **Wireframe de baja fidelidad**
+<img src="./imagenes/Bajafidelidad.png"/>
+
+<br>
+
 # **Segunda Reunion con el  PM Semana 3**
 Segunda reunion con el PM, le hemos mostrado el inventario y los departamentos, en su mayoria, creados en Odoo para los que no a tenido queja ya que eran exactamente los que habia pedido, para los empleados le hemos enseñado una distribución que creiamos mas apropiada con un departamento extra para los jugadores/entrenadores del equipo. Les ha gustado la idea. Sobre el wireframe a dicho que tengamos enfasis en el espiritu deportivo y la interfaz mas facil de entender, sin mucha publicidad sobre el dinero para no dar imagen de avarosidad.
 
